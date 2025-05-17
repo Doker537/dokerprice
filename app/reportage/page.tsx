@@ -27,7 +27,7 @@ export default function ReportagePage() {
   }, [eventType, hours])
 
   // Базовая стоимость и расценки
-  const basePrice = 3000
+  const basePrice = 0
   const eventPrices = {
     wedding: 5000,
     concert: 3000,
