@@ -32,7 +32,7 @@ export default function ReportagePage() {
     wedding: 5000,
     concert: 3000,
     sport: 2500,
-    corporate: 4000,
+    corporate: 1000,
   }
   const hourlyRate = 2000
 
